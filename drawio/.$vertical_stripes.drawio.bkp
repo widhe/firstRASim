@@ -1,0 +1,40 @@
+<mxfile host="Electron" modified="2023-11-11T15:30:30.098Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="oT8kPQGx-bJ69JkE9OhN" version="22.0.3" type="device">
+  <diagram name="Page-1" id="DIyiCXhy0-kuyBT9qirS">
+    <mxGraphModel dx="1710" dy="1142" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="800" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Odn1iNsw_RMKnAQ4CuYD-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF3333;strokeColor=#FF3333;" parent="1" vertex="1">
+          <mxGeometry width="800" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tys312_1LAsUCiZDHO8G-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF3333;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry y="80" width="800" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tys312_1LAsUCiZDHO8G-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF3333;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry y="160" width="800" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tys312_1LAsUCiZDHO8G-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF3333;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry y="240" width="800" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tys312_1LAsUCiZDHO8G-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF3333;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry y="320" width="800" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tys312_1LAsUCiZDHO8G-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF3333;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry y="400" width="800" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tys312_1LAsUCiZDHO8G-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF3333;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry y="480" width="800" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tys312_1LAsUCiZDHO8G-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF3333;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry y="560" width="800" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tys312_1LAsUCiZDHO8G-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF3333;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry y="640" width="800" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tys312_1LAsUCiZDHO8G-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF3333;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry y="720" width="800" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
